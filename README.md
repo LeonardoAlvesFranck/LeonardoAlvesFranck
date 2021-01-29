@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**LeonardoAlvesFranck/LeonardoAlvesFranck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Leonardo Francisco, I'm from Brazil 💚 I'm a Computer Scientist, that has been working as a Back-end developer since 2020. 👨🏻‍💻
 
-Here are some ideas to get you started:
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌓"O conhecimento torna a alma jovem "🧑🏻‍🎨
+
+- 📍 From Itapevi living in  São Paulo 
+-  👨🏻‍💻 Junior SQL Consultant at TechMahindra
+-  📘 Sharing a litlle of my Back-End journey at Github
+
+Reach me out 👇🏻
+
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/leonardoalvesfrancisco/)    	
